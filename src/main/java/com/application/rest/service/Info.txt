@@ -1,0 +1,4 @@
+La capa de servicio se encarga de la lógica de negocio, es decir, de la lógica de la aplicación.
+
+En este caso, la lógica de la aplicación es muy sencilla, ya que solo se encarga de llamar a
+la capa de acceso a datos para obtener los datos de la base de datos y devolverlos al controlador.

@@ -1,0 +1,8 @@
+La capa de repository es la encargada de acceder a los datos, ya sea de una base de datos, de un fichero,
+de un servicio web, etc.
+
+En este caso, la capa de repository accede a los datos de la base de datos.
+Para ello, se ha creado una interfaz que extiende de JpaRepository, que es una interfaz de Spring Data JPA
+que nos proporciona métodos para acceder a los datos de la base de datos.
+
+Esta interfaz es la que se utiliza en el servicio para acceder a los datos de la base de datos.
