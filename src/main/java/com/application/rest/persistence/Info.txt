@@ -1,0 +1,1 @@
+La capa de persistencia se encarga de conectarse con la base de datos y realizar las operaciones de persistencia de datos.
